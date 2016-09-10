@@ -1,9 +1,5 @@
-# Deprecated
+# Heroku Buildpack Multi
 
-This project is deprecated and is no longer being maintained.
+This buildpack was deprecated by its maintainer, with instruction that it could be used beyond Jan 1st 2017 by forking and updating the `BUILDPACK_URL`.
 
-Please fork it to your own account and update your `BUILDPACK_URL`
-
-You can also check out Heroku's [built-in buildpack-multi support](https://devcenter.heroku.com/articles/using-multiple-buildpacks-for-an-app).
-
-Please check out my current project [Convox](https://convox.com) for all of your deployment needs!
+For the future, we might want to migrate to use Heroku's [built-in buildpack-multi support](https://devcenter.heroku.com/articles/using-multiple-buildpacks-for-an-app).
